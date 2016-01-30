@@ -1,0 +1,79 @@
+body{
+   background-image:url("bg.jpg");
+}
+#ghar{
+   padding:30px;
+   border:2px solid gray;
+   overflow:auto; 
+   width:800px;
+   position:absolute;
+   left:250px;
+   top:80px;
+   -webkit-border-radius:25px;
+   background:lightblue;
+}
+#pehchaan{
+    color:green;
+	border:2px solid blue;
+	padding:10px;
+	width:220px;
+	height:450px;
+	float:left;
+	margin:10px;
+	-webkit-border-radius:20px;
+	-webkit-box-shadow:rgb(120,120,120) 10px 10px 10px;
+}
+#apki_muskaan{
+    float:left;
+	border:2px solid red;
+	padding:10px;
+	margin:10px;
+	height:400px;
+	-webkit-border-radius:20px;
+	-webkit-box-shadow:rgb(110,110,110) 10px 10px 10px;
+}
+#bichadna{
+   float:left;
+   border:2px solid cyan;
+   padding:10px;
+   margin:10px;
+   height:400px;
+   width:140px;
+   text-align:center;
+   -webkit-border-radius:20px;
+   -webkit-box-shadow:rgb(110,110,110) 10px 10px 10px;
+}
+#inbut{
+   position:absolute;
+   top:200px;
+   left:700px;
+}
+#frame{
+   margin:20px;
+   padding:30px;
+   border:3px solid gray;
+}
+.images{
+    padding:10px;
+	margin:20px;
+}
+#navigation{
+    border:1px solid gray;
+	padding:5px;
+	margin:3px;
+	font:25px bold Ravie;
+}
+#navigation li{
+    display:inline-block;
+	list-style:none;
+	padding:2px;
+	margin:3px;
+	background:yellow;
+	width:150px;
+	text-align:center;
+	border;1px solid coral;
+}
+#friends{
+   width:600px;
+   color:white;
+}

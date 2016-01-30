@@ -1,0 +1,25 @@
+#uparwala{
+   position:absolute;
+   width:550px;
+   height:30px;
+   background:lightblue;
+   top:21px;
+   left:530px;
+   padding:10px;
+   margin:10px;
+   -webkit-border-radius:20px;
+   text-align:center;
+}
+#uparwala li{
+   display:inline-block;
+   list-style:none;
+   font:20px bold Ravie;
+   color:orangered;
+   padding:10px;
+   margin:5px;
+   -webkit-border-radius:20px;
+   text-align:center;
+}
+#uparwala li:hover{
+    background:green;
+}
